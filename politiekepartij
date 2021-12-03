@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>politieke partij</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <script src="script.js"></script>
+
+   <header>
+  </header>
+    
+
+  <!--menu-->
+<div id="mysidebar" class="sidebar"> 
+    <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
+    <a href="standpunten.html">Standpunten</a>
+    <a href="leden.html">Partijleden</a>
+    <a href="joinus.html">Join us!</a>
+    <a href="info.html">Onze missie</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="opennav()">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#9773;</button>
+  
+  <a href="index.html">
+   <img id="logo" src="images/logo2.png">
+  </a>
+
+</div>
+
+<div class="row">
+  <div class="columnleft">
+    <h2><a href="https://youtu.be/dQw4w9WgXcQ" target="_blank" id="slogan">Ain't no party like a communist party, 'cause a communist party don't stop.</a></h2>
+  <p></p>
+  </div>
+  <div class="columnright">
+    <h2>Nederland voor Gelijkheid</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.</p>
+  </div>
+
+
+</div>
+
+  </body>
+
+</html>
+
+<!--page : info -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>politieke partij</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <script src="script.js"></script>
+
+   <header>
+  </header>
+    
+
+  <!--menu-->
+<div id="mysidebar" class="sidebar"> 
+    <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
+    <a href="standpunten.html">Standpunten</a>
+    <a href="leden.html">Partijleden</a>
+    <a href="joinus.html">Join us!</a>
+    <a href="info.html">Onze missie</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="opennav()">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#9773;</button>
+  
+  <a href="index.html">
+   <img id="logo" src="images/logo2.png">
+  </a>
+
+</div>
+
+<div class="wrapper">
+
+
+ <section>
+   <h2>Onze missie</h1>
+   </br>
+      <article>
+      <h1>Gelijkheid voor iedereen</h1>
+      <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod quis viverra nibh cras. Non tellus orci ac auctor augue mauris. Venenatis cras sed felis eget velit aliquet sagittis. Vestibulum morbi blandit cursus risus at. Et molestie ac feugiat sed lectus vestibulum mattis
+      </p>
+      <p>
+      Nam aliquam sem et tortor consequat id porta nibh venenatis. Interdum velit euismod in pellentesque massa placerat duis. Interdum velit euismod in pellentesque.
+      </p>
+      </article>
+      <article>
+      <h1>Weg met geld</h1>
+       <p>
+      The first chief function of money is to supply commodities with the
+material for the expression of their values, or to represent their values
+as magnitudes of the same denomination, qualitatively equal, and
+quantitatively comparable. It thus serves as a universal measure of
+value. And only by virtue of this function does gold, the equivalent
+commodity par excellence, become money.
+      </p>
+      <p>
+      It is not money that renders commodities commensurable. Just the
+contrary. It is because all commodities, as values, are realised human
+labour, and therefore commensurable, that their values can be
+measured by one and the same special commodity, and the latter be
+converted into the common measure of their values, i.e., into money.
+Money as a measure of value, is the phenomenal form that must of
+116
+necessity be assumed by that measure of value which is immanent in
+commodities, labour-time.*58
+      </p>
+      </article>
+      <article>
+      <h1>Macht aan de arbeiters</h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum enim facilisis gravida neque convallis a cras semper. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Mattis aliquam faucibus purus in massa 
+      </p>
+      </article>
+     <h3><a class="terug" href="index.html">&#10094;&#10094;</a></h3>
+      </section>
+   </div> <!--end of wrapper-->
+  </body>
+
+</html>
+
+ <!--page : join us-->
+ 
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>politieke partij</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <script src="script.js"></script>
+
+   <header>
+  </header>
+    
+
+  <!--menu-->
+<div id="mysidebar" class="sidebar"> 
+    <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
+    <a href="standpunten.html">Standpunten</a>
+    <a href="leden.html">Partijleden</a>
+    <a href="joinus.html">Join us!</a>
+    <a href="info.html">Onze missie</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="opennav()">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#9773;</button>
+  
+  <a href="index.html">
+   <img id="logo" src="images/logo2.png">
+  </a>
+
+</div>
+
+<div class="wrapper">
+
+ <section>
+   <h2>Join us!</h2>
+
+<a href="mailto:26056@edu.msa.nl" target="_blank">Stuur ons een bericht.</a>
+
+<p>Of kom even langs:</p>
+<iframe id="iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4095.8095040235276!2d4.854615271112824!3d52.38160870873842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5e264df6dcebb%3A0x567f66c7af5da456!2sAH%20Bos%20en%20Lommerweg!5e0!3m2!1sen!2snl!4v1638561859497!5m2!1sen!2snl" allowfullscreen="" loading="lazy"></iframe>
+
+<h3><a class="terug" href="index.html">&#10094;&#10094;</a></h3>
+
+</section>
+
+   </div> <!--end of wrapper-->
+
+
+
+  </body>
+
+</html>
+
+<!-- page: leden-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>politieke partij</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <script src="script.js"></script>
+
+   <header>
+  </header>
+    
+
+  <!--menu-->
+<div id="mysidebar" class="sidebar"> 
+    <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
+    <a href="standpunten.html">Standpunten</a>
+    <a href="leden.html">Partijleden</a>
+    <a href="joinus.html">Join us!</a>
+    <a href="info.html">Onze missie</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="opennav()">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#9773;</button>
+  
+  <a href="index.html">
+   <img id="logo" src="images/logo2.png">
+  </a>
+
+</div>
+
+<div class="wrapper">
+
+ <section>
+   <h2>De partijleden</h1>
+   </br>
+   
+   <table border="3px">
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Karl_Marx" target="_blank">Karl Marx</a></td>
+      <td>Lijsttrekker</td>
+      <td><img src="images/karl-marx.jpg" class="tabelimg"></td>
+      
+      <td><img src="images/kitty2.jpg" class="tabelimg"></td>
+      <td>Enzo</td>
+      <td>&ensp;&emsp;&emsp;Lid&emsp;&emsp;&ensp;</td>
+
+    </tr>
+    <tr>
+      <td>Sneeuwbal</td>
+      <td>Lid</td>
+      <td><img src="images/kitty.jpg" class="tabelimg"></td>
+
+      <td><img src="images/me.jpg" class="tabelimg"></td>
+      <td>Maxim Toma</td>
+      <td>&emsp;Lid&emsp;</td>
+    </tr>
+  </table>
+ <h3><a class="terug" href="index.html">&#10094;&#10094;</a></h3>
+      </section>
+   </div> <!--end of wrapper-->
+  </body>
+
+</html>
+
+<!-- page4: standpunten-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>politieke partij</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <script src="script.js"></script>
+
+   <header>
+  </header>
+    
+
+  <!--menu-->
+<div id="mysidebar" class="sidebar"> 
+    <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
+    <a href="standpunten.html">Standpunten</a>
+    <a href="leden.html">Partijleden</a>
+    <a href="joinus.html">Join us!</a>
+    <a href="info.html">Onze missie</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="opennav()">Menu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#9773;</button>
+  
+  <a href="index.html">
+   <img id="logo" src="images/logo2.png">
+  </a>
+
+</div>
+
+<div class="wrapper">
+
+ <section>
+   <h2>Onze standpunten</h2>
+<p>Wat vinden we belangrijk: </p>
+<ul>
+   <li>Gelijkheid</li></br>
+   <li>Millieu</li></br>
+   <li>Onderwijs</li></br>
+   <li>en meer</li></br>
+   <li>en meer</li>
+   <h4><li>JOU!</li></h4>
+</ul>
+  <img id="img1" src="images/nature.jpg">
+  <img id="img2" src="images/school.jpg">
+<h3><a class="terug" href="index.html">&#10094;&#10094;</a></h3>
+</section>
+</div> <!--end of wrapper-->
+  </body>
+
+</html>
